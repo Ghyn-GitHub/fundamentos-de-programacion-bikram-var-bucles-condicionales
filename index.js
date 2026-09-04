@@ -11,7 +11,7 @@ let booleano2 = false;
 const PI = 3.14
 
 // 4.- Crear variable tipo const de nombre TAU declarada con valor 2 veces PI
-const TAU = 2 * Math.PI;
+const TAU = 2 * PI;
 
 // Booleanos
 // 5.- Crear variable booleanoAnd cuyo valor sea la comparación booleana booleano1 and booleano2
@@ -88,10 +88,10 @@ let valorSuma = MiNumeroFav + variableValorNumerico;
 let valorResta = MiNumeroFav - variableValorNumerico;
 
 // 22.- Crear variable valorMultiplicación cuyo valor sea la multiplicación de MiNumeroFav por variableValorNumerico
-let valorMultiplicación = MiNumeroFav * variableValorNumerico;
+let valorMultiplicacion = MiNumeroFav * variableValorNumerico;
 
 // 23.- Crear variable valorDivisión cuyo valor sea la división de MiNumeroFav entre 3
-let valorDivisión = MiNumeroFav / 3;
+let valorDivision = MiNumeroFav / 3;
 
 // Bucles
 // 24.- Crear variable contarHasta10 con valor 0 e incrementar su valor con un bucle while hasta que se verifique que contarHasta10 === 10
